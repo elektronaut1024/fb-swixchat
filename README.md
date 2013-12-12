@@ -1,0 +1,1 @@
+It's an add-on for Firefox which will replace the names of members of the swixchat.ch Facebook group with their respective Nicknames, based on a shared Document maintained by the members of the group itself.
